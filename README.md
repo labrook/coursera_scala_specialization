@@ -1,1 +1,1 @@
-# coursera_scala_specialization
+# Coursera's "Functional Programming in Scala Specialization" Codes

@@ -1,1 +1,3 @@
 # Coursera's "Functional Programming in Scala Specialization" Codes
+
+This repo contains all the scala codes of assignments when I took the [scala specialization program](https://www.coursera.org/specializations/scala) on Coursera.  I am uploding the codes for learners who might get stuck on the homework.  Please work on your own solutions and follow Coursera's [Honor Code and Code of Conduct](https://learner.coursera.help/hc/en-us/sections/201906986-Coursera-policies).  Cheers!
